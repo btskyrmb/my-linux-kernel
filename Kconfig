@@ -1,0 +1,84 @@
+#config/menuconfig
+#help
+#default
+#
+#bool/tristate/hex/string/int
+#range
+#
+#comment/prompt/
+#
+#if/endif
+#
+#select/ choice --> endchoice /depends on/
+#
+#menu/endmenu
+
+menuconfig UPLOOKING_EMB
+	bool "April 10 start to learn kernel drv"
+	---help---
+	 about kernel Kconfig knowlege...
+
+if UPLOOKING_EMB
+
+menu "variable sensors device driver"
+
+comment "to control the bed up/down"
+
+config MOTORNUM 
+	int "set the number of motor"
+	---help---
+	 nothing
+
+config 	STEPMOTOR
+	tristate
+	default y
+	prompt "step motor device driver"
+	---help---
+	 the motor is 4 pulse 8 step
+
+endmenu
+
+menu "about the key word select/choice/depends on"
+
+config MMA7660
+	bool "check x/y/z acc"
+	---help---
+	 nothing
+
+config LEDFLASH
+	bool "flash led"
+	depends on MMA7660
+	---help---
+	 nothing
+
+config BACKLIGHT
+	bool "back light for lcd"
+	---help---
+	 nothing
+
+config LCDS700
+	bool "s700 RGB lcd"
+	select BACKLIGHT
+	---help---
+	 nothing
+
+choice
+	prompt "LED device driver"
+
+config LED0
+	bool "led device driver 0"
+	---help---
+	 nothing
+
+config LED1
+	bool "led device driver 1"
+	---help---
+	 nothing
+
+endchoice
+endmenu
+
+endif 	
+
+
+

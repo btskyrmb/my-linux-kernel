@@ -1,0 +1,1 @@
+cmd_/linux-3.5/drivers/embdrv/modules/modules_deparm/newmod.o := arm-linux-ld -EL    -r -o /linux-3.5/drivers/embdrv/modules/modules_deparm/newmod.o /linux-3.5/drivers/embdrv/modules/modules_deparm/demo.o /linux-3.5/drivers/embdrv/modules/modules_deparm/fool.o 

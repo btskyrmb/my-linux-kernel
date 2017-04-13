@@ -1,0 +1,1 @@
+cmd_/linux-3.5/drivers/embdrv/mm/demo.ko := arm-linux-ld -EL -r  -T /linux-3.5/scripts/module-common.lds --build-id  -o /linux-3.5/drivers/embdrv/mm/demo.ko /linux-3.5/drivers/embdrv/mm/demo.o /linux-3.5/drivers/embdrv/mm/demo.mod.o

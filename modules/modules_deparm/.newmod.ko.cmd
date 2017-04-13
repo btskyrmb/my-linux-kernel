@@ -1,0 +1,1 @@
+cmd_/linux-3.5/drivers/embdrv/modules/modules_deparm/newmod.ko := arm-linux-ld -EL -r  -T /linux-3.5/scripts/module-common.lds --build-id  -o /linux-3.5/drivers/embdrv/modules/modules_deparm/newmod.ko /linux-3.5/drivers/embdrv/modules/modules_deparm/newmod.o /linux-3.5/drivers/embdrv/modules/modules_deparm/newmod.mod.o

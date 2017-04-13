@@ -1,0 +1,1 @@
+cmd_/linux-3.5/drivers/embdrv/modules/modules_param/demoarray.ko := cp /linux-3.5/drivers/embdrv/modules/modules_param/demoarray.ko.unsigned /linux-3.5/drivers/embdrv/modules/modules_param/demoarray.ko
