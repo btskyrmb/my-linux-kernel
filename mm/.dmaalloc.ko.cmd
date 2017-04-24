@@ -1,1 +1,0 @@
-cmd_/linux-3.5/drivers/embdrv/mm/dmaalloc.ko := arm-linux-ld -EL -r  -T /linux-3.5/scripts/module-common.lds --build-id  -o /linux-3.5/drivers/embdrv/mm/dmaalloc.ko /linux-3.5/drivers/embdrv/mm/dmaalloc.o /linux-3.5/drivers/embdrv/mm/dmaalloc.mod.o

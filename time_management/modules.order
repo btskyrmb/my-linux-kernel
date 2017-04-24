@@ -1,0 +1,4 @@
+kernel//linux-3.5/drivers/embdrv/time_management/demo.ko
+kernel//linux-3.5/drivers/embdrv/time_management/getkerneltime.ko
+kernel//linux-3.5/drivers/embdrv/time_management/gettimeofday.ko
+kernel//linux-3.5/drivers/embdrv/time_management/timer.ko

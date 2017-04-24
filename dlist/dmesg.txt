@@ -1,0 +1,559 @@
+186's old aver: 78
++++++++++++++++++++++++++++
+style name: QuanHuang1
+style old : 60
++++++++++++++++++++++++++++
+style name: QuanHuang2
+style old : 61
++++++++++++++++++++++++++++
+style name: QuanHuang3
+style old : 62
++++++++++++++++++++++++++++
+style name: QuanHuang4
+style old : 63
++++++++++++++++++++++++++++
+style name: QuanHuang5
+style old : 64
++++++++++++++++++++++++++++
+style name: QuanHuang6
+style old : 65
++++++++++++++++++++++++++++
+style name: QuanHuang7
+style old : 66
++++++++++++++++++++++++++++
+style name: QuanHuang8
+style old : 67
++++++++++++++++++++++++++++
+style name: QuanHuang9
+style old : 68
++++++++++++++++++++++++++++
+style name: QuanHuang10
+style old : 69
++++++++++++++++++++++++++++
+style name: QuanHuang11
+style old : 70
++++++++++++++++++++++++++++
+style name: QuanHuang12
+style old : 71
++++++++++++++++++++++++++++
+style name: QuanHuang13
+style old : 72
++++++++++++++++++++++++++++
+style name: QuanHuang14
+style old : 73
++++++++++++++++++++++++++++
+style name: QuanHuang15
+style old : 74
++++++++++++++++++++++++++++
+style name: QuanHuang16
+style old : 75
++++++++++++++++++++++++++++
+style name: QuanHuang17
+style old : 76
++++++++++++++++++++++++++++
+style name: QuanHuang18
+style old : 77
++++++++++++++++++++++++++++
+style name: QuanHuang19
+style old : 78
++++++++++++++++++++++++++++
+style name: QuanHuang20
+style old : 79
++++++++++++++++++++++++++++
+style name: QuanHuang21
+style old : 80
++++++++++++++++++++++++++++
+style name: QuanHuang22
+style old : 81
++++++++++++++++++++++++++++
+style name: QuanHuang23
+style old : 82
++++++++++++++++++++++++++++
+style name: QuanHuang24
+style old : 83
++++++++++++++++++++++++++++
+style name: QuanHuang25
+style old : 84
++++++++++++++++++++++++++++
+style name: QuanHuang26
+style old : 85
++++++++++++++++++++++++++++
+style name: QuanHuang27
+style old : 86
++++++++++++++++++++++++++++
+style name: QuanHuang28
+style old : 87
++++++++++++++++++++++++++++
+style name: QuanHuang29
+style old : 88
++++++++++++++++++++++++++++
+style name: QuanHuang30
+style old : 89
++++++++++++++++++++++++++++
+style name: QuanHuang31
+style old : 90
++++++++++++++++++++++++++++
+style name: QuanHuang32
+style old : 91
++++++++++++++++++++++++++++
+style name: QuanHuang33
+style old : 92
++++++++++++++++++++++++++++
+style name: QuanHuang34
+style old : 93
++++++++++++++++++++++++++++
+style name: QuanHuang35
+style old : 94
++++++++++++++++++++++++++++
+style name: QuanHuang36
+style old : 95
++++++++++++++++++++++++++++
+style name: QuanHuang37
+style old : 96
++++++++++++++++++++++++++++
+style name: QuanHuang38
+style old : 97
++++++++++++++++++++++++++++
+style name: QuanHuang39
+style old : 98
++++++++++++++++++++++++++++
+style name: QuanHuang40
+style old : 99
++++++++++++++++++++++++++++
+style name: QuanHuang41
+style old : 100
++++++++++++++++++++++++++++
+style name: QuanHuang42
+style old : 60
++++++++++++++++++++++++++++
+style name: QuanHuang43
+style old : 61
++++++++++++++++++++++++++++
+style name: QuanHuang44
+style old : 62
++++++++++++++++++++++++++++
+style name: QuanHuang45
+style old : 63
++++++++++++++++++++++++++++
+style name: QuanHuang46
+style old : 64
++++++++++++++++++++++++++++
+style name: QuanHuang47
+style old : 65
++++++++++++++++++++++++++++
+style name: QuanHuang48
+style old : 66
++++++++++++++++++++++++++++
+style name: QuanHuang49
+style old : 67
++++++++++++++++++++++++++++
+style name: QuanHuang50
+style old : 68
++++++++++++++++++++++++++++
+style name: QuanHuang51
+style old : 69
++++++++++++++++++++++++++++
+style name: QuanHuang52
+style old : 70
++++++++++++++++++++++++++++
+style name: QuanHuang53
+style old : 71
++++++++++++++++++++++++++++
+style name: QuanHuang54
+style old : 72
++++++++++++++++++++++++++++
+style name: QuanHuang55
+style old : 73
++++++++++++++++++++++++++++
+style name: QuanHuang56
+style old : 74
++++++++++++++++++++++++++++
+style name: QuanHuang57
+style old : 75
++++++++++++++++++++++++++++
+style name: QuanHuang58
+style old : 76
++++++++++++++++++++++++++++
+style name: QuanHuang59
+style old : 77
++++++++++++++++++++++++++++
+style name: QuanHuang60
+style old : 78
++++++++++++++++++++++++++++
+style name: QuanHuang61
+style old : 79
++++++++++++++++++++++++++++
+style name: QuanHuang62
+style old : 80
++++++++++++++++++++++++++++
+style name: QuanHuang63
+style old : 81
++++++++++++++++++++++++++++
+style name: QuanHuang64
+style old : 82
++++++++++++++++++++++++++++
+style name: QuanHuang65
+style old : 83
++++++++++++++++++++++++++++
+style name: QuanHuang66
+style old : 84
++++++++++++++++++++++++++++
+style name: QuanHuang67
+style old : 85
++++++++++++++++++++++++++++
+style name: QuanHuang68
+style old : 86
++++++++++++++++++++++++++++
+style name: QuanHuang69
+style old : 87
++++++++++++++++++++++++++++
+style name: QuanHuang70
+style old : 88
++++++++++++++++++++++++++++
+style name: QuanHuang71
+style old : 89
++++++++++++++++++++++++++++
+style name: QuanHuang72
+style old : 90
++++++++++++++++++++++++++++
+style name: QuanHuang73
+style old : 91
++++++++++++++++++++++++++++
+style name: QuanHuang74
+style old : 92
++++++++++++++++++++++++++++
+style name: QuanHuang75
+style old : 93
++++++++++++++++++++++++++++
+style name: QuanHuang76
+style old : 94
++++++++++++++++++++++++++++
+style name: QuanHuang77
+style old : 95
++++++++++++++++++++++++++++
+style name: QuanHuang78
+style old : 96
++++++++++++++++++++++++++++
+style name: QuanHuang79
+style old : 97
++++++++++++++++++++++++++++
+style name: QuanHuang80
+style old : 98
++++++++++++++++++++++++++++
+style name: QuanHuang81
+style old : 99
++++++++++++++++++++++++++++
+style name: QuanHuang82
+style old : 100
++++++++++++++++++++++++++++
+style name: QuanHuang83
+style old : 60
++++++++++++++++++++++++++++
+style name: QuanHuang84
+style old : 61
++++++++++++++++++++++++++++
+style name: QuanHuang85
+style old : 62
++++++++++++++++++++++++++++
+style name: QuanHuang86
+style old : 63
++++++++++++++++++++++++++++
+style name: QuanHuang87
+style old : 64
++++++++++++++++++++++++++++
+style name: QuanHuang88
+style old : 65
++++++++++++++++++++++++++++
+style name: QuanHuang89
+style old : 66
++++++++++++++++++++++++++++
+style name: QuanHuang90
+style old : 67
++++++++++++++++++++++++++++
+style name: QuanHuang91
+style old : 68
++++++++++++++++++++++++++++
+style name: QuanHuang92
+style old : 69
++++++++++++++++++++++++++++
+style name: QuanHuang93
+style old : 70
++++++++++++++++++++++++++++
+style name: QuanHuang94
+style old : 71
++++++++++++++++++++++++++++
+style name: QuanHuang95
+style old : 72
++++++++++++++++++++++++++++
+style name: QuanHuang96
+style old : 73
++++++++++++++++++++++++++++
+style name: QuanHuang97
+style old : 74
++++++++++++++++++++++++++++
+style name: QuanHuang98
+style old : 75
++++++++++++++++++++++++++++
+style name: QuanHuang99
+style old : 76
++++++++++++++++++++++++++++
+style name: QuanHuang100
+style old : 77
++++++++++++++++++++++++++++
+style name: QuanHuang101
+style old : 78
++++++++++++++++++++++++++++
+style name: QuanHuang102
+style old : 79
++++++++++++++++++++++++++++
+style name: QuanHuang103
+style old : 80
++++++++++++++++++++++++++++
+style name: QuanHuang104
+style old : 81
++++++++++++++++++++++++++++
+style name: QuanHuang105
+style old : 82
++++++++++++++++++++++++++++
+style name: QuanHuang106
+style old : 83
++++++++++++++++++++++++++++
+style name: QuanHuang107
+style old : 84
++++++++++++++++++++++++++++
+style name: QuanHuang108
+style old : 85
++++++++++++++++++++++++++++
+style name: QuanHuang109
+style old : 86
++++++++++++++++++++++++++++
+style name: QuanHuang110
+style old : 87
++++++++++++++++++++++++++++
+style name: QuanHuang111
+style old : 88
++++++++++++++++++++++++++++
+style name: QuanHuang112
+style old : 89
++++++++++++++++++++++++++++
+style name: QuanHuang113
+style old : 90
++++++++++++++++++++++++++++
+style name: QuanHuang114
+style old : 91
++++++++++++++++++++++++++++
+style name: QuanHuang115
+style old : 92
++++++++++++++++++++++++++++
+style name: QuanHuang116
+style old : 93
++++++++++++++++++++++++++++
+style name: QuanHuang117
+style old : 94
++++++++++++++++++++++++++++
+style name: QuanHuang118
+style old : 95
++++++++++++++++++++++++++++
+style name: QuanHuang119
+style old : 96
++++++++++++++++++++++++++++
+style name: QuanHuang120
+style old : 97
++++++++++++++++++++++++++++
+style name: QuanHuang121
+style old : 98
++++++++++++++++++++++++++++
+style name: QuanHuang122
+style old : 99
++++++++++++++++++++++++++++
+style name: QuanHuang123
+style old : 100
++++++++++++++++++++++++++++
+style name: QuanHuang124
+style old : 60
++++++++++++++++++++++++++++
+style name: QuanHuang125
+style old : 61
++++++++++++++++++++++++++++
+style name: QuanHuang126
+style old : 62
++++++++++++++++++++++++++++
+style name: QuanHuang127
+style old : 63
++++++++++++++++++++++++++++
+style name: QuanHuang128
+style old : 64
++++++++++++++++++++++++++++
+style name: QuanHuang129
+style old : 65
++++++++++++++++++++++++++++
+style name: QuanHuang130
+style old : 66
++++++++++++++++++++++++++++
+style name: QuanHuang131
+style old : 67
++++++++++++++++++++++++++++
+style name: QuanHuang132
+style old : 68
++++++++++++++++++++++++++++
+style name: QuanHuang133
+style old : 69
++++++++++++++++++++++++++++
+style name: QuanHuang134
+style old : 70
++++++++++++++++++++++++++++
+style name: QuanHuang135
+style old : 71
++++++++++++++++++++++++++++
+style name: QuanHuang136
+style old : 72
++++++++++++++++++++++++++++
+style name: QuanHuang137
+style old : 73
++++++++++++++++++++++++++++
+style name: QuanHuang138
+style old : 74
++++++++++++++++++++++++++++
+style name: QuanHuang139
+style old : 75
++++++++++++++++++++++++++++
+style name: QuanHuang140
+style old : 76
++++++++++++++++++++++++++++
+style name: QuanHuang141
+style old : 77
++++++++++++++++++++++++++++
+style name: QuanHuang142
+style old : 78
++++++++++++++++++++++++++++
+style name: QuanHuang143
+style old : 79
++++++++++++++++++++++++++++
+style name: QuanHuang144
+style old : 80
++++++++++++++++++++++++++++
+style name: QuanHuang145
+style old : 81
++++++++++++++++++++++++++++
+style name: QuanHuang146
+style old : 82
++++++++++++++++++++++++++++
+style name: QuanHuang147
+style old : 83
++++++++++++++++++++++++++++
+style name: QuanHuang148
+style old : 84
++++++++++++++++++++++++++++
+style name: QuanHuang149
+style old : 85
++++++++++++++++++++++++++++
+style name: QuanHuang150
+style old : 86
++++++++++++++++++++++++++++
+style name: QuanHuang151
+style old : 87
++++++++++++++++++++++++++++
+style name: QuanHuang152
+style old : 88
++++++++++++++++++++++++++++
+style name: QuanHuang153
+style old : 89
++++++++++++++++++++++++++++
+style name: QuanHuang154
+style old : 90
++++++++++++++++++++++++++++
+style name: QuanHuang155
+style old : 91
++++++++++++++++++++++++++++
+style name: QuanHuang156
+style old : 92
++++++++++++++++++++++++++++
+style name: QuanHuang157
+style old : 93
++++++++++++++++++++++++++++
+style name: QuanHuang158
+style old : 94
++++++++++++++++++++++++++++
+style name: QuanHuang159
+style old : 95
++++++++++++++++++++++++++++
+style name: QuanHuang160
+style old : 96
++++++++++++++++++++++++++++
+style name: QuanHuang161
+style old : 97
++++++++++++++++++++++++++++
+style name: QuanHuang162
+style old : 98
++++++++++++++++++++++++++++
+style name: QuanHuang163
+style old : 99
++++++++++++++++++++++++++++
+style name: QuanHuang164
+style old : 100
++++++++++++++++++++++++++++
+style name: QuanHuang165
+style old : 60
++++++++++++++++++++++++++++
+style name: QuanHuang166
+style old : 61
++++++++++++++++++++++++++++
+style name: QuanHuang167
+style old : 62
++++++++++++++++++++++++++++
+style name: QuanHuang168
+style old : 63
++++++++++++++++++++++++++++
+style name: QuanHuang169
+style old : 64
++++++++++++++++++++++++++++
+style name: QuanHuang170
+style old : 65
++++++++++++++++++++++++++++
+style name: QuanHuang171
+style old : 66
++++++++++++++++++++++++++++
+style name: QuanHuang172
+style old : 67
++++++++++++++++++++++++++++
+style name: QuanHuang173
+style old : 68
++++++++++++++++++++++++++++
+style name: QuanHuang174
+style old : 69
++++++++++++++++++++++++++++
+style name: QuanHuang175
+style old : 70
++++++++++++++++++++++++++++
+style name: QuanHuang176
+style old : 71
++++++++++++++++++++++++++++
+style name: QuanHuang177
+style old : 72
++++++++++++++++++++++++++++
+style name: QuanHuang178
+style old : 73
++++++++++++++++++++++++++++
+style name: QuanHuang179
+style old : 74
++++++++++++++++++++++++++++
+style name: QuanHuang180
+style old : 75
++++++++++++++++++++++++++++
+style name: QuanHuang181
+style old : 76
++++++++++++++++++++++++++++
+style name: QuanHuang182
+style old : 77
++++++++++++++++++++++++++++
+style name: QuanHuang183
+style old : 78
++++++++++++++++++++++++++++
+style name: QuanHuang184
+style old : 79
++++++++++++++++++++++++++++
+style name: QuanHuang185
+style old : 80
++++++++++++++++++++++++++++
+style name: QuanHuang186
+style old : 81

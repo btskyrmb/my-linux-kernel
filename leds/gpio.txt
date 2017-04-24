@@ -1,0 +1,44 @@
+GPIO Interfaces
+
+//所有利用gpio子系统实现的函数接口操作gpio
+//是通过对读应引脚的编号进行操作gpio的。
+
+These calls use the gpio_* naming prefix.  No other calls should use that
+prefix, or the related __gpio_* prefix.
+
+#include <linux/gpio.h>
+
+int gpio_is_valid(int number);
+
+int gpio_request(unsigned gpio, const char *label);
+void gpio_free(unsigned gpio);
+
+int gpio_direction_input(unsigned gpio);
+int gpio_direction_output(unsigned gpio, int value);
+
+/* GPIO INPUT:  return zero or nonzero */
+int gpio_get_value(unsigned gpio);
+
+/* GPIO OUTPUT */
+void gpio_set_value(unsigned gpio, int value);
+
+/* map GPIO numbers to IRQ numbers */
+int gpio_to_irq(unsigned gpio);
+
+/* map IRQ numbers to GPIO numbers (avoid using this) */
+int irq_to_gpio(unsigned irq);
+
+
+==========================================================
+三星的板级支持包所实现的操作gpio的函数接口
+
+int s3c_gpio_cfgpin(unsigned int pin, unsigned int config)；
+
+第二个参数对应的值为以下某一个:
+
+#define S3C_GPIO_INPUT	(S3C_GPIO_SPECIAL(0))
+#define S3C_GPIO_OUTPUT	(S3C_GPIO_SPECIAL(1))
+#define S3C_GPIO_SFN(x)	(S3C_GPIO_SPECIAL(x))
+
+
+

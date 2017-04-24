@@ -1,4 +1,0 @@
-kernel//linux-3.5/drivers/embdrv/mm/demo.ko
-kernel//linux-3.5/drivers/embdrv/mm/ddemo.ko
-kernel//linux-3.5/drivers/embdrv/mm/dddemo.ko
-kernel//linux-3.5/drivers/embdrv/mm/dmaalloc.ko

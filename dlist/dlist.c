@@ -26,7 +26,6 @@ static int demo_init(void)
 
 	INIT_LIST_HEAD(&head.list);
 
- 
 	for (i = 0; i < NUM; i++) {
 		pga = kzalloc(sizeof(*pga), GFP_KERNEL);
 		if (NULL == pga) {
@@ -42,7 +41,6 @@ static int demo_init(void)
 	head.aver /= NUM;
 
 	printk("%d's old aver: %d\n", NUM, head.aver);
-
 
 	list_for_each(pos, &head.list) {
 		pga = container_of(pos, struct game_style, list);

@@ -1,0 +1,1 @@
+cmd_/linux-3.5/drivers/embdrv/nblock_io/demo2.ko.unsigned := ld -r -m elf_i386 -T /usr/src/kernels/2.6.32-573.el6.i686/scripts/module-common.lds --build-id -o /linux-3.5/drivers/embdrv/nblock_io/demo2.ko.unsigned /linux-3.5/drivers/embdrv/nblock_io/demo2.o /linux-3.5/drivers/embdrv/nblock_io/demo2.mod.o 

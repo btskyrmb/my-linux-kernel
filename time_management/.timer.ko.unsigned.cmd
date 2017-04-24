@@ -1,0 +1,1 @@
+cmd_/linux-3.5/drivers/embdrv/time_management/timer.ko.unsigned := ld -r -m elf_i386 -T /usr/src/kernels/2.6.32-573.el6.i686/scripts/module-common.lds --build-id -o /linux-3.5/drivers/embdrv/time_management/timer.ko.unsigned /linux-3.5/drivers/embdrv/time_management/timer.o /linux-3.5/drivers/embdrv/time_management/timer.mod.o 
